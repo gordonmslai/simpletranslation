@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">SimpleTranslation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="header_eng">I would like to translate...</string>
+    <string name="header_zh">我想翻译...</string>
+    <string name="header_esp">Quiero traducir...</string>
+    <string-array name="lang_array">
+        <item>English</item>
+        <item>中文 (Chinese)</item>
+        <item>Español (Spanish)</item>
+    </string-array>
+    <string-array name="lang_array_esp">
+        <item>English (Inglés)</item>
+        <item>中文 (Chino)</item>
+        <item>Español</item>
+    </string-array>
+    <string-array name="lang_array_zh">
+        <item>English (英语)</item>
+        <item>中文</item>
+        <item>Español (西班牙语)</item>
+    </string-array>
+    <string name="def_text_eng">Enter text here</string>
+    <string name="def_text_zh">这里输入文字</string>
+    <string name="def_text_esp">Introducir texto aquí</string>
+    <string name="def_text2_eng">Translation</string>
+    <string name="def_text2_zh">翻译</string>
+    <string name="def_text2_esp">Traducción</string>
+
+    <string name="phrase1_eng">Hello</string>
+    <string name="phrase2_eng">How much?</string>
+    <string name="phrase3_eng">Please</string>
+    <string name="phrase4_eng">Thank you</string>
+    <string name="phrase5_eng">Goodbye</string>
+
+    <string name="phrase1_zh">你好</string>
+    <string name="phrase2_zh">多少?</string>
+    <string name="phrase3_zh">请</string>
+    <string name="phrase4_zh">谢谢</string>
+    <string name="phrase5_zh">再见</string>
+
+    <string name="phrase1_esp">Hola</string>
+    <string name="phrase2_esp">Cuánto?</string>
+    <string name="phrase3_esp">Por favor</string>
+    <string name="phrase4_esp">Gracias</string>
+    <string name="phrase5_esp">Adiós</string>
+
+
+</resources>
